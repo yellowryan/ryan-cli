@@ -1,0 +1,21 @@
+{
+  "name": "ryan",
+  "version": "1.0.0",
+  "description": "A cli tool for quickly creating react or vue projects (simplest)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ryan": "bin/index.js"
+  },
+  "keywords": [],
+  "author": "yellowryan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "minimist": "^1.2.8",
+    "prompts": "^2.4.2"
+  }
+}
